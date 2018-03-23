@@ -837,20 +837,15 @@ li.dy_q{ border:none}
 	margin:0px auto;
 	margin-top:17px
 }
-
 #main-content #home-news {
 	float: left;
 	margin-right: 40px;
 	width: 550px;
-	/*margin-right: 40px;
-	width: 326px*/
 }
-
 #main-content #home-notice {
 	float: left;
 	width: 435px;
 }
-
 #main-content #home-student {
 	float: left;
 	margin-right: 40px;
@@ -899,7 +894,7 @@ li.dy_q{ border:none}
 	position: relative;
 	zoom: 1;
 	margin-bottom: 5px;
-	background-color: #eee;
+	background-color: white;
 }
 
 .panel .panel-head {
